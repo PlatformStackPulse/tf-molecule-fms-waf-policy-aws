@@ -1,6 +1,18 @@
 # Changelog
 
 
+<a name="v1.1.0"></a>
+## [v1.1.0](https://github.com/PlatformStackPulse/Terraform-module-base-template/compare/v1.0.1-feat-implement-molecule.6...v1.1.0) (2026-05-27)
+
+### Documentation
+
+- **changelog:** update CHANGELOG.md [skip ci] ([714e76c](https://github.com/PlatformStackPulse/Terraform-module-base-template/commit/714e76cc342a170a80eb39628ac9ea23b1913301))
+
+### Features
+
+- implement tf-molecule-fms-waf-policy-aws ([#1](https://github.com/PlatformStackPulse/Terraform-module-base-template/issues/1)) ([0983be9](https://github.com/PlatformStackPulse/Terraform-module-base-template/commit/0983be9a47cd88c7c1c512a6cf966b765689bc3c))
+
+
 <a name="v1.0.1-feat-implement-molecule.6"></a>
 ## [v1.0.1-feat-implement-molecule.6](https://github.com/PlatformStackPulse/Terraform-module-base-template/compare/v1.0.0...v1.0.1-feat-implement-molecule.6) (2026-05-27)
 

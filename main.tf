@@ -19,7 +19,7 @@ module "fms_policy" {
   source = "git::https://github.com/PlatformStackPulse/tf-atom-fms-policy-aws.git?ref=v1.1.0"
 
   context                            = module.this.context
-  name                               = module.this.id
+  policy_type                        = "WAFV2"
   resource_type                      = var.resource_type
   exclude_resource_tags              = var.exclude_resource_tags
   remediation_enabled                = var.remediation_enabled
